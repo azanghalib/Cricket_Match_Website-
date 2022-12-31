@@ -1,5 +1,5 @@
 # Cricket_Match_Website-
-I developed this cricket match website using HTML CSS JS PHP .To see the website visit https://vikasprajapati.netlify.app/
+I developed this cricket match website using HTML CSS JS PHP .To see the website visit https://rmgcricketmatch.netlify.app/
 ## -Website-
 Portfolio website build using HTML5, CSS3, JavaScript and PHP.
 
